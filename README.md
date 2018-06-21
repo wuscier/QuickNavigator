@@ -1,2 +1,2 @@
 # QuickNavigator
-enable you to find what you want very quickly
+enable you to find what you want on your PC very quickly
